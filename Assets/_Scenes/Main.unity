@@ -2236,7 +2236,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   inputManager: {fileID: 1623929139}
   maxSpeed: 10
-  acceleration: 35
+  acceleration: 65
   jumpForce: 10
   dashForce: 40
   airControl: 0.15
